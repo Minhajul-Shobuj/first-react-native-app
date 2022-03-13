@@ -31,7 +31,7 @@ You can use this app for any e-commerce business;
 https://github.com/Minhajul-Shobuj/first-react-native-app
 ```
 
-## live site link host on FIREBASE
+## live site link 
 ```
 Under Construction
 ```
